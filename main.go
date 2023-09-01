@@ -18,4 +18,10 @@ func main() {
 	fmt.Println(s1)
 	puppy.From13()
 	puppy.From12()
+
+		
+}
+
+func From13() {
+	fmt.Println("I'm from version 1.0.1")
 }
